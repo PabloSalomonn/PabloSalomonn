@@ -17,7 +17,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a QA Engineer in training, passionate about software quality, test automation, and data validation. I focus on manual and automated testing, API testing, and ensuring data integrity in digital products. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
+I am a QA Engineer in training, passionate about software quality, test automation, and data validation. I focus on manual and automated testing, API testing, and ensuring data integrity in digital products <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope: My background in surveying and geomatics engineering helped me develop strong analytical skills, attention to detail, and precision. I now apply these skills to software QA, learning automation with Selenium and Python, API testing with Postman, and data validation using SQL.
 
 I am seeking my first professional opportunity as a QA Engineer, with a focus on continuous learning, improving digital product quality, and working in Agile environments. I am particularly interested in remote roles that allow me to grow as a QA Automation / Data Quality professional.
