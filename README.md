@@ -89,7 +89,8 @@ I am seeking my first professional opportunity as a QA Engineer, with a focus on
 
 **Tools:** Postman, API Testing, DevTools, JIRA, Usability Testing  
 
-[Repository / Screenshots link if available]
+<a href="https://www.linkedin.com/in/patricio-m-690b3729/">
+      <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
 
 ---
 
@@ -104,8 +105,8 @@ I am seeking my first professional opportunity as a QA Engineer, with a focus on
 
 **Tools:** Selenium, Python, PyCharm, JIRA, Figma  
 
-[Repository / Screenshots link if available]
-
+<a href="https://www.linkedin.com/in/patricio-m-690b3729/">
+      <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
 ---
 
 ### 3️⃣ Urban Grocery – Test Case Design & Analysis
@@ -118,7 +119,8 @@ I am seeking my first professional opportunity as a QA Engineer, with a focus on
 
 **Tools:** Test Design, Requirements Analysis, Draw.io, Google Sheets  
 
-[Repository / Screenshots link if available]
+<a href="https://www.linkedin.com/in/patricio-m-690b3729/">
+      <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
 
 ---
 
