@@ -48,11 +48,106 @@ I am seeking my first professional opportunity as a QA Engineer, with a focus on
 
 ---
 
-### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PabloSalomonn" alt="PabloSalomonn" /></a> </p>
-<div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PabloSalomonn&theme=dark&background=000000" width="600"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSalomonn&layout=compact&theme=vision-friendly-dark" width="600"/>
-</div>
+## Technical Skills
+
+### Hard Skills
+- Software Testing / Quality Assurance (QA)  
+- Manual Testing (Functional, Regression, Smoke, E2E)  
+- Test Automation (Selenium + Python)  
+- API Testing (Postman, REST APIs)  
+- Test Case Design & Bug Reporting  
+- SQL (Data Validation & Integrity)  
+- Agile / Scrum / JIRA  
+- Cross-Browser Testing / DevTools  
+- Mobile Testing (Android Studio)  
+
+### Soft Skills
+- Analytical Thinking  
+- Attention to Detail  
+- Problem Solving  
+- Teamwork & Collaboration  
+- Continuous Learning  
+- Time Management  
+- Adaptability  
+- Proactivity  
+
+### Languages
+- Spanish: Native  
+- English: Intermediate (technical reading & basic communication)
+
+---
+
+## Projects
+
+### 1️⃣ Urban Scooter – Web & API Validation
+**Goal:** Validate API communication and critical user flows for a scooter-sharing platform.  
+**Tasks:**
+- Tested API endpoints using Postman.  
+- Validated frontend-backend integration.  
+- Evaluated critical user flows and documented bugs.  
+- Monitored performance and response times using DevTools.  
+
+**Tools:** Postman, API Testing, DevTools, JIRA, Usability Testing  
+
+[Repository / Screenshots link if available]
+
+---
+
+### 2️⃣ Urban Routes – Functional Testing & Selenium Automation
+**Goal:** Ensure proper functionality of a car-sharing app.  
+**Tasks:**
+- Manual functional testing on reservations, payments, and pricing.  
+- Cross-browser testing on different resolutions.  
+- Created checklists for critical forms and windows.  
+- Automated E2E flows with Selenium + Python (PyCharm).  
+- Logged and tracked defects in JIRA.  
+
+**Tools:** Selenium, Python, PyCharm, JIRA, Figma  
+
+[Repository / Screenshots link if available]
+
+---
+
+### 3️⃣ Urban Grocery – Test Case Design & Analysis
+**Goal:** Design test cases to prevent defects from the beginning.  
+**Tasks:**
+- Requirement analysis to detect inconsistencies.  
+- Test case design using equivalence partitioning & boundary values.  
+- Created flowcharts and mind maps to visualize system logic.  
+- Documented test cases in Google Sheets and Draw.io.  
+
+**Tools:** Test Design, Requirements Analysis, Draw.io, Google Sheets  
+
+[Repository / Screenshots link if available]
+
+---
+
+## Education
+
+- **TripleTen Bootcamp – QA Engineer (2026)**  
+- **Universidad de Aconcagua – Geomatics Engineering (2020)**  
+- **Instituto Profesional AIEP – Surveyor (2016)**  
+
+---
+
+## Professional Experience (Transferable Skills)
+
+**Quality Control & Project Execution – Rumizeta Revestimientos (2018–2025)**  
+- Verified compliance with technical specifications and quality standards.  
+- Detected and corrected defects early, reducing rework.  
+- Tracked and followed up on incidents until resolution.  
+- Coordinated with teams to deliver projects on time and to specification.  
+
+**Surveyor – SouthPrint (2017)**  
+- Collected and validated topographic data.  
+- Verified measurements and coordinates for accuracy.  
+- Maintained records and coordinated with teams for correct data interpretation.  
+
+---
+
+## Contact
+
+- ✉️ Email: pablo.salomonn@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/pablopérez-yaryes](https://linkedin.com/in/pablopérez-yaryes)  
+- 📂 Portfolio / Notion: [Link to your portfolio]  
+- 🐙 GitHub: [github.com/pabloperezQA](https://github.com/pabloperezQA)
