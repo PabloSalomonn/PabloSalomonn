@@ -148,6 +148,5 @@ I am seeking my first professional opportunity as a QA Engineer, with a focus on
 ## Contact
 
 - ✉️ Email: pablo.salomonn@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/pablopérez-yaryes](https://linkedin.com/in/pablopérez-yaryes)  
-- 📂 Portfolio / Notion: [Link to your portfolio]  
-- 🐙 GitHub: [github.com/pabloperezQA](https://github.com/pabloperezQA)
+- 🌐 LinkedIn: [linkedin.com/in/pablopérez-yaryes](https://linkedin.com/in/pablopérez-yaryes)   
+- 🐙 GitHub: [github.com/PabloSalomonn](https://github.com/PabloSalomonn)
