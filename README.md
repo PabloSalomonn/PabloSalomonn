@@ -17,14 +17,13 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
+I am a QA Engineer in training, passionate about software quality, test automation, and data validation. I focus on manual and automated testing, API testing, and ensuring data integrity in digital products. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
+- :telescope: My background in surveying and geomatics engineering helped me develop strong analytical skills, attention to detail, and precision. I now apply these skills to software QA, learning automation with Selenium and Python, API testing with Postman, and data validation using SQL.
 
-- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
+I am seeking my first professional opportunity as a QA Engineer, with a focus on continuous learning, improving digital product quality, and working in Agile environments. I am particularly interested in remote roles that allow me to grow as a QA Automation / Data Quality professional.
 
-- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Blopa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablopérezyaryes)
 
 ---
 
